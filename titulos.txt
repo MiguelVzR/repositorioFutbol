@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Copa del rey (perdida)
 Copa oronda (todos engordan)
 Copa de vino
+=======
+titulo 1 
+titulo 2 titulo 3 
+>>>>>>> primera_rama
